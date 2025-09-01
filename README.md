@@ -15,6 +15,7 @@ Useful for testing/dev environments when you don’t own a real domain.
   - Port 443 → TLS with security headers
 - Disables default Apache site, enables your custom sites
 - Prints testing instructions (curl / hosts file setup)
+- Works on Ubuntu/Debian Distro's!
 
 ---
 
